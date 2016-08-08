@@ -35,7 +35,7 @@
 		"test": "test"
 	},
 	"dependencies": {
-		"grunt-contrib-connect": "~0.5.0",
+		"grunt-contrib-connect": "~1.0.2",
 		"lodash": "^3.10.1",
 		"phantomflow": "^1.1.3"
 	},
